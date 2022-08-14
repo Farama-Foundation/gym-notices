@@ -7,7 +7,7 @@ setuptools.setup(
     name="gym-notices",
     version="0.0.8",
     author="Jordan Terry",
-    author_email="jkterry@umd.edu",
+    author_email="jkterry0@farama.org",
     description="Notices for gym",
     long_description=long_description,
     long_description_content_type="text/markdown",
