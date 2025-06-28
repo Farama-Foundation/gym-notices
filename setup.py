@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="gym-notices",
-    version="0.0.8",
+    version="0.1.0",
     author="Jordan Terry",
     author_email="jkterry0@farama.org",
     description="Notices for gym",
