@@ -1,0 +1,3 @@
+# Gym Notices
+
+This repository hosts notices for Gym that may be displayed on import on internet connected systems, in order to give notices if versions have major reproducibility issues, are very old and need to be upgraded (e.g. there's been issues with researchers using 4 year old versions of Gym for no reason), or other similar issues. If you're using a current version of Gym and nothing extraordinary happens, you'll never see a message from this, but I want start including the option to prevent future issues. By pulling the error messages from a public git repository, there's absolute transparency and versioning in the process.
